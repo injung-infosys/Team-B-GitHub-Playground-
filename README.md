@@ -6,8 +6,8 @@ A repo for proof of concept
 
 ## Members
 
-- Sandhya Renukarya
-- Ankit Gandhi
+- Sandhya Renukarya - Yes, this is me - SR
+- Ankit Gandhi - Yes, this is me - AG
 - Injung Ahn
-- Vincent Ly
-- William Davies
+- Vincent Ly - Yes, this is me - VL
+- William Davies - Yes, this is me - WD
