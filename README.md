@@ -9,5 +9,5 @@ A repo for proof of concept
 - Sandhya Renukarya - Yes, this is me - SR
 - Ankit Gandhi
 - Injung Ahn
-- Vincent Ly
+- Vincent Ly - Yes, this is me - VL
 - William Davies - Yes, this is me - WD
