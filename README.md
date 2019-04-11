@@ -10,4 +10,4 @@ A repo for proof of concept
 - Ankit Gandhi
 - Injung Ahn
 - Vincent Ly
-- William Davies
+- William Davies - Yes, this is me - WD
