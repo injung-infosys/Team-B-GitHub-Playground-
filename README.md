@@ -8,6 +8,6 @@ A repo for proof of concept
 
 - Sandhya Renukarya - Yes, this is me - SR
 - Ankit Gandhi - Yes, this is me - AG
-- Injung Ahn
+- Injung Ahn - Yes, this is me - IA
 - Vincent Ly - Yes, this is me - VL
 - William Davies - Yes, this is me - WD
