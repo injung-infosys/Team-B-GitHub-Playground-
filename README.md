@@ -6,7 +6,7 @@ A repo for proof of concept
 
 ## Members
 
-- Sandhya Renukarya
+- Sandhya Renukarya - Yes, this is me - SR
 - Ankit Gandhi
 - Injung Ahn
 - Vincent Ly
